@@ -64,7 +64,7 @@ tri(70,160)
 tri(100,145)
 
 
-size = 80 
+size = 100
 t.color("red")
 t.width("2")
 
@@ -72,7 +72,7 @@ angle = 120
 t.begin_fill()
 t.fillcolor("black")
 t.penup()
-t.goto(0,300)
+t.goto(350,400)
 t.pendown()
 
 for size in  range(5):
