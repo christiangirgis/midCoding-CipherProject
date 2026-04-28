@@ -40,7 +40,7 @@ t.setposition(-x,y)
 t.dot(eye_size)
 
 def tri(left,top):
-    t.color("green")
+    t.color("black")
     
     t.pensize(2)
     t.penup()
